@@ -155,7 +155,7 @@ const Index = () => {
                 <FileText className="h-6 w-6 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
-                ResumeAI
+                ResumeReady
               </span>
             </div>
             
@@ -233,7 +233,7 @@ const Index = () => {
       {/* Features Section */}
       <section className="container mx-auto px-4 py-16">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose ResumeAI?</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose ResumeReady?</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Our platform combines cutting-edge AI technology with professional design 
             to help you create resumes that stand out.
@@ -333,7 +333,7 @@ const Index = () => {
               <div className="p-1 bg-gradient-to-r from-purple-600 to-blue-600 rounded">
                 <FileText className="h-4 w-4 text-white" />
               </div>
-              <span className="font-bold text-gray-900">ResumeAI</span>
+              <span className="font-bold text-gray-900">ResumeReady</span>
             </div>
             <div className="flex space-x-6 text-sm text-gray-600">
               <a href="#" className="hover:text-purple-600">Privacy Policy</a>

@@ -1,73 +1,99 @@
-# Welcome to your Lovable project
+# 📄 ResumeReady – Your AI-Powered Resume Builder
 
-## Project info
+**ResumeReady** is a sleek, modern web application that helps users create professional resumes in just minutes. Built using a powerful React-based stack and styled with Tailwind CSS, ResumeReady makes resume creation intuitive and fast — powered by clean UI and real-time editing features.
 
-**URL**: https://lovable.dev/projects/b92f04bd-940b-420f-ae48-7004fdab269d
+[🚀 Live Project on Lovable](https://lovable.dev/projects/b92f04bd-940b-420f-ae48-7004fdab269d)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Features
 
-**Use Lovable**
+- 🧠 Simple, AI-assisted interface for building resumes
+- 🖱️ Click-and-edit section blocks (Education, Skills, Projects, etc.)
+- 🎨 Minimalistic, modern design with responsive layouts
+- 📄 Export-ready formatting for print or download
+- ⚡ Instant preview while editing
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b92f04bd-940b-420f-ae48-7004fdab269d) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## 🛠 Tech Stack
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Vite**
+- **TypeScript**
+- **React**
+- **Tailwind CSS**
+- **shadcn-ui**
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/b92f04bd-940b-420f-ae48-7004fdab269d) and click on Share -> Publish.
+## 🔧 Getting Started (Local Development)
 
-## Can I connect a custom domain to my Lovable project?
+You can edit this project either in **Lovable** or on your **local machine** using any code editor.
 
-Yes, you can!
+### 1. Clone and Setup
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+```bash
+# Clone the repository
+git clone <YOUR_GIT_URL>
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# Navigate into the project
+cd ResumeReady
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+🧑‍💻 Editing Options
+🔹 Option 1: Edit on Lovable
+Visit the project on Lovable
+
+Use natural language prompts or drag-and-drop components
+
+All changes are auto-synced to the repo
+
+🔹 Option 2: Use Your Local IDE
+Clone and edit code in VS Code, WebStorm, etc.
+
+Push your commits to sync with Lovable
+
+🔹 Option 3: Edit Directly in GitHub
+Navigate to a file in GitHub
+
+Click the ✏️ Edit icon
+
+Commit changes and push
+
+🔹 Option 4: Use GitHub Codespaces
+Go to the repository homepage
+
+Click the green Code button → Codespaces tab
+
+Start a new Codespace and edit the project live in the cloud
+
+🌍 Deployment
+To publish the project:
+
+Open it in Lovable
+
+Click Share → Publish
+
+Your site will be instantly deployed to a public URL.
+
+🌐 Custom Domain Setup
+To use your own domain:
+
+Go to Project → Settings → Domains
+
+Click Connect Domain
+
+Follow the Lovable custom domain guide
+
+📬 Contact
+Built by Arun Arumugam
+📧 arun005cena@gmail.com
+🔗 GitHub Profile
